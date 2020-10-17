@@ -16,6 +16,6 @@ Created for MIT course 6.837.
 The character model can be controlled by both the sliders in the GUI and by selecting joints in the viewport and using the rotation gizmo. 
 
 
-![Scene1](https://github.com/bbartschi14/heirarchical_skinning/blob/main/ss1.JPG)
+![Scene1](https://github.com/bbartschi14/heirarchical_skinning/blob/main/ss1.JPG | width=100)
 
 
