@@ -1,4 +1,4 @@
-# heirarchical_skinning
+# Heirarchical Skinning and SSD
 OpenGL project for constructing tree-driven hierarchical skeleton modeling and skinning.
 
 - Skeleton vs. Mesh view
