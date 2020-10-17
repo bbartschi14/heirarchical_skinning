@@ -20,5 +20,5 @@ The character model can be controlled by both the sliders in the GUI and by sele
 
 Skeleton View             |  Model View
 :---------------------------:|:---------------------------:
-<img src="https://github.com/bbartschi14/heirarchical_skinning/blob/main/ss1.JPG" width="40%">  |  <img src="https://github.com/bbartschi14/heirarchical_skinning/blob/main/ss2.JPG" width="40%">
+<img src="https://github.com/bbartschi14/heirarchical_skinning/blob/main/ss1.JPG" width="70%">  |  <img src="https://github.com/bbartschi14/heirarchical_skinning/blob/main/ss2.JPG" width="70%">
 
